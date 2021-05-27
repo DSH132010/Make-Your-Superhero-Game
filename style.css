@@ -1,0 +1,58 @@
+/* Reseting The Default Setting's */
+
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins';
+    font-weight: 500;
+}
+
+
+
+#myCanvas
+{
+    background-color: white; 
+    border: 10px ridge #fff;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+    margin: 10px auto 20px;
+ }
+h3
+{
+	display: inline;
+    padding: 10px 5px;
+}
+span
+{
+	color: #fff;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px 5px;
+}
+
+
+.main{
+    padding: 30px;
+    background-image: url("avenger_bg.jpg");
+    background-position: center;
+    background-size: cover;
+	height: 100%;
+	width: 100%;
+}
